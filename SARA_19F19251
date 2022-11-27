@@ -1,0 +1,10 @@
+Int i;
+Float a[10],total;
+For (i=0; i<10; i++)
+Read a[i];
+End for
+Total=0
+For (i=0;i<10;i++)
+Total=total+ a[i]
+End for
+Print “the total marks are “, total
